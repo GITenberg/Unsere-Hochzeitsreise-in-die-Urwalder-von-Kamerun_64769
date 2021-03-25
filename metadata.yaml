@@ -1,5 +1,8 @@
 _repo: Unsere-Hochzeitsreise-in-die-Urwalder-von-Kamerun_64769
 _version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 64769-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Claren, Jenny
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53041'
     url: http://www.gutenberg.org/2009/agents/53041
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64769#Unsere-Hochzeitsreise-in-die-Urwalder-von-Kamerun
 gutenberg_issued: '2021-03-09'
 gutenberg_type: Text
 identifiers:
